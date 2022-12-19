@@ -1,0 +1,48 @@
+.BlogtabImg{
+    width: 100%;
+   top: 0px;
+   position: fixed;
+    
+    height: 100%;
+}
+.BlogTab-Img{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+
+}
+.BlogTab-ListPosst{
+    margin-top: 30%;
+    background-color: #fff;
+}
+.BlogTab-HeaderImg{
+    margin: 0 0;
+   
+}
+.BlogTab{
+  
+}
+.abc{
+   
+
+   
+   
+}
+.BlogTab-body{
+    
+}
+.BlogTab-HeaderView2{
+    position: relative;
+    
+}
+
+.BlogTab-ListTicket{
+    background-color: #fff;
+   
+}
+.BlogTab-Footer{
+    position: relative;
+    z-index: 1.5;
+}

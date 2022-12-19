@@ -1,0 +1,58 @@
+.Header{
+    height: 10.5vh;
+    width: 100%;
+    background-color: rgba(88, 55, 126, 0.5);
+   
+   
+    position: fixed;
+    top:0;
+    left: 0;
+   z-index: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header-itemBody{
+    height: 10.5vh;
+  font-size: 30px;
+  margin-right: 20px;
+   display: flex;
+}
+.header-itemBody div{
+    text-decoration: none;
+    margin-top: 25px;
+    color: rgb(202, 171, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.Header .Header_Logo{
+    padding-left: 5vw;
+    width: 15%;
+    height: 100%;
+}
+.Header .Header_Profile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #000;
+    padding-right: 5vw;
+}
+.Header_icProfile{
+    height: 5vh;
+}
+.Header_NameProfile{
+    color:#fff;
+    font-weight: 400;
+    font-size: 25px;
+    margin-right: 15px;
+   
+}
+.Header .Header_Profile .Header_icProfile{
+    height: 50px;
+    width: 60px;
+}
+.userHeader{
+    display: flex;
+}
